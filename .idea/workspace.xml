@@ -20,8 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="477a45d3-a4e0-44a0-8f84-f5b5f7093b6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/audio/dead.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/down.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/eat.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/left.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/right.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/up.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ground.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +69,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\snake-game" />
+      <recent name="C:\xampp\htdocs\snake-game\img" />
       <recent name="C:\xampp\htdocs\snake-game\js" />
       <recent name="C:\xampp\htdocs\snake-game\css" />
     </key>
@@ -79,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605739552593</updated>
-      <workItem from="1605739554117" duration="9901000" />
+      <workItem from="1605739554117" duration="24152000" />
     </task>
     <servers />
   </component>

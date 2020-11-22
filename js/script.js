@@ -128,29 +128,17 @@ function draw() {
     }
 
 
-    snake.unshift(snakeNew);
-
-
-    // set collision function
-
-    function collition(head, body) {
-        for (let i = 0; i < body.length; i++) {
-            if (head[i].x == body[i].x && head[i].y == body[i].y){
-                return true;
-            }else {
-                return false;
-            }
-        }
-    }
 
     // set collision condition aka game over
 
     for (let i = 0; i < snake.length; i++) {
-        if (snakeX < box || snakeX > 17 * box || snakeY > 17 * box || snakeY < 3 * box || collition(snakeNew,snake)) {
+        if (snakeX < box || snakeX > 17 * box || snakeY > 17 * box || snakeY < 3 * box ) {
             clearInterval(game);
             dead.play();
         }
     }
+
+    snake.unshift(snakeNew);
 
 
 }
